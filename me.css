@@ -2,13 +2,14 @@
      background-color: black;
      display : inline-block;
      
-     width : 1000px;
+     width : 160px;
      margin-top : 5px;
      padding-top : 3px;
      /* padding-right : 2px; */
      align-content: center;
      vertical-align : baseline;
      background-image : url("vnr-img.png") ;
+     height : 
 }
 .main{
     display : inline-block;
