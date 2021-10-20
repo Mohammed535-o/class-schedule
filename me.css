@@ -2,7 +2,6 @@
      background-color: black;
      display : inline-block;
      
-     width : 160px;
      margin-top : 5px;
      /* padding-top : 3px; */
      /* padding-right : 2px; */
@@ -10,6 +9,7 @@
      vertical-align : baseline;
      background-image : url("vnr-img.png") ;
      height : 732px;
+     width : 412px;
 }
 .main{
     display : inline-block;
