@@ -1,10 +1,11 @@
 .table ,th,td{
     border : 2px double red;
-    height : 90px;
+    height : 70px;
     width : 190px;
     color : white;
     background-color: black;
     font-size: 20px;
+    text-shadow : 2px 3px 5px red;
 }
 td {
     text-align : center;
