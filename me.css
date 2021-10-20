@@ -1,0 +1,40 @@
+.menu {
+     background-color: black;
+     display : inline-block;
+     
+     width : 160px;
+     margin-top : 5px;
+     padding-top : 3px;
+     /* padding-right : 2px; */
+     align-content: center;
+     vertical-align : baseline;
+     background-image : url("vnr-img.png") ;
+}
+.main{
+    display : inline-block;
+}
+li a{
+    display : block;
+    border : 1px solid white;
+    text-decoration: none;
+    margin : 8px 8px 8px 8px;
+    padding : 3px 3px 3px 3px;
+    text-align: center;
+    color : white;
+    font-size : 18px;
+}
+li {
+    list-style-type: none;
+}
+ .imgg{
+    padding-right : 5px;
+} 
+li a:hover{
+    color : blue;
+}
+.table {
+    display : inline-block;
+}
+.back{
+    vertical-align : baseline;
+}
