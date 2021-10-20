@@ -1,0 +1,11 @@
+.table ,th,td{
+    border : 2px double red;
+    height : 90px;
+    width : 400px;
+    color : white;
+    background-color: black;
+    font-weight : bold;
+}
+td {
+    text-align : center;
+}
