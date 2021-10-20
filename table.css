@@ -6,7 +6,7 @@
     background-color: black;
     font-weight : bold;
     font-size: 20px;
-    text-shadow : 2px 3px 5px red;
+    text-shadow : 2px 3px 5px rgb(31, 216, 31);
     margin : 0;
     padding : 0;
     box-shadow : 3px 3px 3px black;
@@ -21,4 +21,5 @@ header{
     background-color : black;
     width : 400px;
     box-shadow : 3px 3px 3px black;
+    text-shadow : 2px 3px 5px rgb(31, 216, 31);
 }

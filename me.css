@@ -80,6 +80,7 @@ li {
 
 li a:hover{
     color : #00f100;
+    text-shadow: 3px 3px 3px rgb(9, 9, 226);
 }
 .table {
     display : inline-block;

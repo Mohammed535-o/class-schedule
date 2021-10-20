@@ -5,7 +5,7 @@
     color : white;
     background-color: black;
     font-size: 20px;
-    text-shadow : 2px 3px 5px red;
+    text-shadow : 2px 3px 5px rgb(31, 216, 31);
     margin : 0;
     padding : 0;
     border-collapse: collapse;
@@ -21,4 +21,5 @@ header{
     background-color : black;
     width : 388px;
     box-shadow : 3px 3px 3px black;
+    text-shadow : 2px 3px 5px rgb(31, 216, 31);
 }
