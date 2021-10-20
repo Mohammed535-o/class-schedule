@@ -2,17 +2,17 @@
      background-color: black;
      display : inline-block;
      
-     margin-top : 5px;
      /* padding-top : 3px; */
      /* padding-right : 2px; */
      align-content: center;
      vertical-align : baseline;
-     background-image : url("vnr-img-min.png") ;
-     height : 960px;
+     /* background-image : url("vnr-img-min.png") ; */
+     height : 732px;
      width : 412px;
      /* background-position : center; */
-     background-attachment: fixed;
+     /* background-attachment: fixed; */
      text-transform: uppercase;
+     box-shadow: 5px 5px 5px red;
     
 
 }
@@ -23,13 +23,13 @@ li a{
     display : block;
     border : 1px solid white;
     text-decoration: none;
-    margin : 20px 20px 80px 20px;
+    margin : 20px 20px 50px 20px;
     padding : 3px 3px 3px 3px;
     text-align: center;
     color : white;
     font-size : 25px;
     border-radius: 80px;
-    box-shadow : 3px 3px black;
+    box-shadow : 3px 3px 5px #F3E8EA;
 }
 li {
     list-style-type: none;
@@ -89,8 +89,8 @@ li a:hover{
 }
 
 body {
-    margin : 0 0 0 0;
-    padding : 0 0 0 0;
+    margin : 0;
+    padding : 0;
 }
 /*normal mobile*/
 @media screen and (max-width: 480px) {
