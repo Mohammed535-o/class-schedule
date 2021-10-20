@@ -10,7 +10,6 @@
      background-image : url("vnr-img.png") ;
      height : 732px;
      width : 412px;
-     background-repeat : no-repeat;
      /* background-position : center; */
      background-attachment: fixed;
 }
