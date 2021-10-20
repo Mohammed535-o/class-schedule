@@ -7,11 +7,11 @@
      /* padding-right : 2px; */
      align-content: center;
      vertical-align : baseline;
-     background-image : url("vnr-img.png") ;
+     background-image : url("vnr-img-min.png") ;
      height : 960px;
      width : 412px;
      /* background-position : center; */
-     background-attachment: fixed;
+     /* background-attachment: fixed; */
      text-transform: uppercase;
     
 
@@ -29,7 +29,7 @@ li a{
     color : white;
     font-size : 25px;
     border-radius: 80px;
-    
+    box-shadow : 3px 3px black;
 }
 li {
     list-style-type: none;
@@ -39,37 +39,38 @@ li {
     height : 10px;
     margin-bottom: 30px;
     border : none;
+    box-shadow: none;
 } 
 
 .mo{
     margin-top : 100px;
-    color : black;
-    background-color : rgb(96, 43, 221);
+    color : white;
+    background-color : black;
 }
 
 .tu {
-    color : black;
-    background-color : indigo;
+    color : white;
+    background-color : black;
 }
 
 .we{
-    color : black;
-    background-color : blue;
+    color : white;
+    background-color : black;
 }
 
 .th{
-    color : black;
-    background-color : green;
+    color : white;
+    background-color : black;
 }
 
 .fr{
-    color : black;
-    background-color : yellow;
+    color : white;
+    background-color : black;
 }
 
 .sa{
-    color : black;
-    background-color : orange;
+    color : white;
+    background-color : black;
 }
 
 .fee{
