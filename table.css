@@ -1,5 +1,5 @@
 .table ,th,td{
-    border : 2px double red;
+    border : 2px solid red;
     height : 70px;
     width : 400px;
     color : white;
@@ -9,6 +9,7 @@
     text-shadow : 2px 3px 5px red;
     margin : 0;
     padding : 0;
+    box-shadow : 3px 3px 3px black;
 }
 td {
     text-align : center;
@@ -19,4 +20,5 @@ header{
     text-align: center;
     background-color : black;
     width : 400px;
+    box-shadow : 3px 3px 3px black;
 }
