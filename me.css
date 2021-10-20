@@ -7,7 +7,7 @@
      align-content: center;
      vertical-align : baseline;
      /* background-image : url("vnr-img-min.png") ; */
-     height : 732px;
+     height : 700px;
      width : 412px;
      /* background-position : center; */
      /* background-attachment: fixed; */
@@ -23,7 +23,7 @@ li a{
     display : block;
     border : 1px solid white;
     text-decoration: none;
-    margin : 20px 20px 50px 20px;
+    margin : 20px 20px 40px 20px;
     padding : 3px 3px 3px 3px;
     text-align: center;
     color : white;
@@ -37,7 +37,7 @@ li {
 }
  .imgg{
     height : 10px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border : none;
     box-shadow: none;
 } 
