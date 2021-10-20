@@ -8,10 +8,12 @@
      align-content: center;
      vertical-align : baseline;
      background-image : url("vnr-img.png") ;
-     height : 732px;
+     height : 950px;
      width : 412px;
      /* background-position : center; */
      background-attachment: fixed;
+     text-transform: uppercase;
+
 }
 .main{
     display : inline-block;
@@ -20,20 +22,61 @@ li a{
     display : block;
     border : 1px solid white;
     text-decoration: none;
-    margin : 8px 8px 8px 8px;
+    margin : 80px 20px 20px 20px;
     padding : 3px 3px 3px 3px;
     text-align: center;
     color : white;
-    font-size : 18px;
+    font-size : 25px;
+    border-radius: 80px;
+    
 }
 li {
     list-style-type: none;
 }
  .imgg{
-    padding-right : 5px;
+    height : 10px;
+    margin-bottom: 30px;
+    border : none;
 } 
+
+.mo{
+    margin-top : 100px;
+    color : black;
+    background-color : rgb(96, 43, 221);
+}
+
+.tu {
+    color : black;
+    background-color : indigo;
+}
+
+.we{
+    color : black;
+    background-color : blue;
+}
+
+.th{
+    color : black;
+    background-color : green;
+}
+
+.fr{
+    color : black;
+    background-color : yellow;
+}
+
+.sa{
+    color : black;
+    background-color : orange;
+}
+
+.fee{
+    color : white;
+    background-color : black;
+}
+
 li a:hover{
-    color : blue;
+    color : #00f100;
 }
 .table {
     display : inline-block;
@@ -44,6 +87,7 @@ li a:hover{
 
 body {
     margin : 0 0 0 0;
+    padding : 0 0 0 0;
 }
 /*normal mobile*/
 @media screen and (max-width: 480px) {
